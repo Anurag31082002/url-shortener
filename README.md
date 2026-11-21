@@ -25,10 +25,31 @@ Run the seeder above to create the demo company, users, sample links, and the Su
 | Super Admin | `superadmin@example.com` | `Admin@123` |
 | Admin | `admin@example.com` | `Admin@123` |
 | Member | `member@example.com` | `Member@123` |
-| Sales | `sales@example.com` | `Sales@123` |
-| Manager | `manager@example.com` | `Manager@123` |
+
 
 Log out between tests, then sign in with the next account. The same demo company is used for the Admin, Member, Sales, and Manager accounts.
+superadmin dashobard
+<img width="1909" height="1052" alt="image" src="https://github.com/user-attachments/assets/768db227-aaae-47cf-a9d8-352629294042" />
+admindashobard invite acceot
+<img width="1909" height="1106" alt="image" src="https://github.com/user-attachments/assets/f1eaf873-2372-4060-9fa1-df38c53f2cc2" />
+Admin dshboad
+<img width="1919" height="1081" alt="image" src="https://github.com/user-attachments/assets/df03019e-d9fb-4824-a122-bbf357056be1" />
+Admin invitaion link
+<img width="1917" height="1097" alt="image" src="https://github.com/user-attachments/assets/8e175e39-ccfa-4940-b4f7-b9a9c907eaa6" />
+memeber invitew link accept 
+<img width="1910" height="1062" alt="image" src="https://github.com/user-attachments/assets/433b52be-0819-442b-a4d5-ef5df68726f4" />
+short url creation
+<img width="1901" height="1053" alt="image" src="https://github.com/user-attachments/assets/989eb451-3912-4c99-a38b-999a23bfca04" />
+
+short url creation :
+<img width="1893" height="1037" alt="image" src="https://github.com/user-attachments/assets/94930302-13b5-4a00-9b91-cb471c5e2538" />
+<img width="1906" height="1040" alt="image" src="https://github.com/user-attachments/assets/15de7392-3a10-498c-8ff3-2d72da7b9d8b" />
+short url opening :
+<img width="1912" height="1052" alt="image" src="https://github.com/user-attachments/assets/0803a5c7-6f93-478b-9e3f-061d0dd1852a" />
+
+
+
+
 
 ## Role behavior
 
@@ -54,5 +75,6 @@ Invitations are not emailed by this assignment. The app displays the direct invi
 ```powershell
 D:\xampp8.2\xampp\php\php.exe artisan test
 ```
+
 
 To reset the local database and reseed all demo data, run `D:\xampp8.2\xampp\php\php.exe artisan migrate:fresh --seed`. This deletes the existing local database data.
