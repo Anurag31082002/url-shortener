@@ -95,19 +95,7 @@ The seeder creates only the Super Admin. Use this account to log in for the firs
 
 ## Run the project
 
-**1. Install frontend packages**
-
-```bash
-npm install
-```
-
-**2. Build the frontend**
-
-```bash
-npm run build
-```
-
-**3. Start the server**
+**1. Start the server**
 
 ```bash
 php artisan serve
